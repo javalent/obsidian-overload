@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/valentine195/obsidian-overload/compare/javalent-obsidian-overload-v1.0.0...javalent-obsidian-overload-v1.0.1) (2023-04-18)
+
+
+### Bug Fixes
+
+* adds publish ([4e775a3](https://github.com/valentine195/obsidian-overload/commit/4e775a30666225149840c969ff6a512393be0a14))
+* removes publish from release ([0d1f972](https://github.com/valentine195/obsidian-overload/commit/0d1f972f152fbe3f3248677984572ed528af6a70))
+
 ## 1.0.0 (2023-04-18)
 
 
