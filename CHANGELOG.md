@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.7](https://github.com/javalent/obsidian-overload/compare/v1.2.6...v1.2.7) (2023-04-19)
+
+
+### Bug Fixes
+
+* bump ([af3e84a](https://github.com/javalent/obsidian-overload/commit/af3e84a5411fa2b76e05ce42f3ae0d423a2ed67e))
+
 ## [1.2.6](https://github.com/javalent/obsidian-overload/compare/v1.2.5...v1.2.6) (2023-04-19)
 
 
