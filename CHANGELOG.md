@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.8](https://github.com/javalent/obsidian-overload/compare/v1.2.7...v1.2.8) (2023-04-19)
+
+
+### Bug Fixes
+
+* inherit secrets ([6a58688](https://github.com/javalent/obsidian-overload/commit/6a5868844bbfad2c48041b5da4f487d53d3abbb8))
+
 ## [1.2.7](https://github.com/javalent/obsidian-overload/compare/v1.2.6...v1.2.7) (2023-04-19)
 
 
