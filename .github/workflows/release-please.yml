@@ -28,7 +28,7 @@ jobs:
     publish:
         needs: release-please
         if: ${{ needs.release-please.outputs.release_created }}
-        uses: valentine195/workflows/.github/workflows/publish.yml
+        uses: valentine195/workflows/.github/workflows/publish.yml@main
 #    publish:
 #        runs-on: ubuntu-latest
 #        needs: release-please
