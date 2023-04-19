@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/valentine195/obsidian-overload/compare/v1.1.0...v1.2.0) (2023-04-19)
+
+
+### Features
+
+* dice roller version bump ([65b6639](https://github.com/valentine195/obsidian-overload/commit/65b663939ea44d3da46758a184939ad510bd7924))
+
+
+### Bug Fixes
+
+* testing fixed publish ([348329a](https://github.com/valentine195/obsidian-overload/commit/348329abc3991ade3765e7f0a3c29073d1319f9b))
+
 ## [1.1.0](https://github.com/valentine195/obsidian-overload/compare/v1.0.1...v1.1.0) (2023-04-18)
 
 
