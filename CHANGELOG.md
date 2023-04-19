@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.5](https://github.com/valentine195/obsidian-overload/compare/v1.2.4...v1.2.5) (2023-04-19)
+
+
+### Bug Fixes
+
+* org change ([3ad2351](https://github.com/valentine195/obsidian-overload/commit/3ad235161ebb7a948ecffb0303d6c0333f17d7d4))
+
 ## [1.2.4](https://github.com/valentine195/obsidian-overload/compare/v1.2.3...v1.2.4) (2023-04-19)
 
 
