@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/valentine195/obsidian-overload/compare/v1.2.0...v1.2.1) (2023-04-19)
+
+
+### Bug Fixes
+
+* fix publish job ([cc2cddb](https://github.com/valentine195/obsidian-overload/commit/cc2cddb97d6d38603b30c5774e8e35d03a8d15b9))
+
 ## [1.2.0](https://github.com/valentine195/obsidian-overload/compare/v1.1.0...v1.2.0) (2023-04-19)
 
 
