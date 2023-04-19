@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.3](https://github.com/valentine195/obsidian-overload/compare/v1.2.2...v1.2.3) (2023-04-19)
+
+
+### Bug Fixes
+
+* add version ([2cc84d6](https://github.com/valentine195/obsidian-overload/commit/2cc84d61959e90099cc52d902c390ab2b0cd1319))
+* testing remote publish ([2b2b29e](https://github.com/valentine195/obsidian-overload/commit/2b2b29ebdf806e8f8e9604dae8be010c5911a197))
+
 ## [1.2.2](https://github.com/valentine195/obsidian-overload/compare/v1.2.1...v1.2.2) (2023-04-19)
 
 
