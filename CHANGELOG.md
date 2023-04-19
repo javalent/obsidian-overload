@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/valentine195/obsidian-overload/compare/v1.2.1...v1.2.2) (2023-04-19)
+
+
+### Bug Fixes
+
+* bump setup-node version ([33c3aa0](https://github.com/valentine195/obsidian-overload/commit/33c3aa0bd5bc359231a9ca8688e39d7ae89784d0))
+
 ## [1.2.1](https://github.com/valentine195/obsidian-overload/compare/v1.2.0...v1.2.1) (2023-04-19)
 
 
