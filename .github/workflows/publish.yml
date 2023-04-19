@@ -19,7 +19,7 @@ jobs:
         steps:
             # The logic below handles the npm publication:
             - uses: actions/checkout@v2
-            - uses: actions/setup-node@v1
+            - uses: actions/setup-node@v3
               with:
                   node-version: 18
                   registry-url: "https://registry.npmjs.org"
@@ -29,4 +29,3 @@ jobs:
             - run: npm publish
               env:
                   NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-                  NPM_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
