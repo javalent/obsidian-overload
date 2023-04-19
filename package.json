@@ -11,7 +11,7 @@
     "dependencies": {
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
-        "obsidian-dice-roller": "^8.13.3"
+        "obsidian-dice-roller": "^8.13.4"
     },
     "description": ""
 }
