@@ -26,6 +26,7 @@ jobs:
               with:
                   command: manifest
     publish:
+        needs: release-please
         if: ${{ needs.release-please.outputs.release_created }}
         uses: ./.github/workflows/publish.yml
 #    publish:
