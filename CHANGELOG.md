@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.1](https://github.com/javalent/obsidian-overload/compare/v1.9.0...v1.9.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* fixes dependency ([f36f3db](https://github.com/javalent/obsidian-overload/commit/f36f3db82556f1ac17d40730a83d0c6155ada61a))
+
 ## [1.9.0](https://github.com/javalent/obsidian-overload/compare/v1.8.1...v1.9.0) (2023-04-20)
 
 
