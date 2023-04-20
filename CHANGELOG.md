@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.13](https://github.com/javalent/obsidian-overload/compare/v1.2.12...v1.2.13) (2023-04-20)
+
+
+### Bug Fixes
+
+* test ([a66d139](https://github.com/javalent/obsidian-overload/commit/a66d139db69b7b2e8607cf98095a5ad937042f60))
+* test PAT ([289bc20](https://github.com/javalent/obsidian-overload/commit/289bc2040ba36ad5ec5e68cd97a1eebcb82d305b))
+
 ## [1.2.12](https://github.com/javalent/obsidian-overload/compare/v1.2.11...v1.2.12) (2023-04-20)
 
 
