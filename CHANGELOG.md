@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/javalent/obsidian-overload/compare/v1.4.1...v1.4.2) (2023-04-20)
+
+
+### Bug Fixes
+
+* properly export types ([44ee984](https://github.com/javalent/obsidian-overload/commit/44ee9840592c635b734e688624dc35b2cdf836e7))
+
 ## [1.4.1](https://github.com/javalent/obsidian-overload/compare/v1.4.0...v1.4.1) (2023-04-20)
 
 
