@@ -37,7 +37,7 @@ jobs:
         if: ${{ !needs.release-please.outputs.release_created }}
         steps:
             - name: Sleep for 30 seconds
-              run: sleep 30s
+              run: sleep 120s
               shell: bash
             - id: automerge
               name: automerge
