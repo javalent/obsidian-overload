@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/javalent/obsidian-overload/compare/v1.4.0...v1.4.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* expose dice roller ([327dc6b](https://github.com/javalent/obsidian-overload/commit/327dc6b5d3ee9364b52f8d27b7f3795ec3221e57))
+
 ## [1.4.0](https://github.com/javalent/obsidian-overload/compare/v1.3.1...v1.4.0) (2023-04-20)
 
 
