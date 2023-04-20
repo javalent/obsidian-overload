@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.15](https://github.com/javalent/obsidian-overload/compare/v1.2.14...v1.2.15) (2023-04-20)
+
+
+### Bug Fixes
+
+* way too many automerges trigger ([bc7a256](https://github.com/javalent/obsidian-overload/commit/bc7a256961f01c460a75ec5c2e7ec4e70910e476))
+
 ## [1.2.14](https://github.com/javalent/obsidian-overload/compare/v1.2.13...v1.2.14) (2023-04-20)
 
 
