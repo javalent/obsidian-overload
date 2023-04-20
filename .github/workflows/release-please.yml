@@ -11,9 +11,13 @@ permissions:
 
 name: release-please
 
+env:
+  GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
 jobs:
     release-please:
         runs-on: ubuntu-latest
+        env:
+            GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
         outputs:
             release_created: ${{ steps.release.outputs.release_created }}
             upload_url: ${{ steps.release.outputs.upload_url }}
