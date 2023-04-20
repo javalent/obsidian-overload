@@ -1,6 +1,6 @@
 {
     "name": "obsidian-overload",
-    "version": "1.9.1",
+    "version": "1.10.0",
     "types": "index.d.ts",
     "scripts": {},
     "author": "",
@@ -9,7 +9,8 @@
         "fantasy-statblocks": "^3.5.4",
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
-        "obsidian-dice-roller": "^8.14.2"
+        "obsidian-dice-roller": "^8.14.2",
+        "obsidian-leaflet": "^5.5.3"
     },
     "description": "",
     "devDependencies": {
