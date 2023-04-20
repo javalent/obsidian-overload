@@ -26,26 +26,12 @@ jobs:
               id: release
               with:
                   command: manifest
+            - run: echo ${{ steps.release.outputs.pr.number }}
     publish:
         needs: release-please
         if: ${{ needs.release-please.outputs.release_created }}
         uses: javalent/workflows/.github/workflows/publish.yml@main
         secrets: inherit
-    automerge:
-        runs-on: ubuntu-latest
-        needs: release-please
-        if: ${{ !needs.release-please.outputs.release_created }}
-        steps:
-            - name: Sleep for 30 seconds
-              run: sleep 120s
-              shell: bash
-            - id: automerge
-              name: automerge
-              uses: "pascalgn/automerge-action@v0.15.6"
-              env:
-                  GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
-                  MERGE_METHOD: "squash"
-                  MERGE_LABELS: ""
 #    publish:
 #        runs-on: ubuntu-latest
 #        needs: release-please
