@@ -1,0 +1,32 @@
+on:
+    workflow_dispatch:
+    workflow_call:
+        inputs:
+            module:
+                required: true
+                type: string
+
+name: upgrade
+
+jobs:
+    upgrade:
+        runs-on: ubuntu-latest
+        outputs:
+            committed: ${{ steps.commit.outputs.committed }}
+        steps:
+            # The logic below handles the npm publication:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v3
+              with:
+                  node-version: 18
+                  registry-url: "https://registry.npmjs.org"
+
+            - uses: EndBug/add-and-commit@v9
+              id: commit
+              with:
+                  default_author: github_actions
+
+    publish:
+        needs: upgrade
+        if: ${{ needs.upgrade.outputs.committed }}
+        uses: javalent/workflows/.github/workflows/publish.yml@main
