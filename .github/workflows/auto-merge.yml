@@ -1,31 +1,6 @@
 name: automerge
 on:
     pull_request_target:
-        types:
-            - assigned
-            - unassigned
-            - labeled
-            - unlabeled
-            - opened
-            - edited
-            - reopened
-            - synchronize
-            - ready_for_review
-            - locked
-            - unlocked
-    pull_request:
-        types:
-            - assigned
-            - unassigned
-            - labeled
-            - unlabeled
-            - opened
-            - edited
-            - reopened
-            - synchronize
-            - ready_for_review
-            - locked
-            - unlocked
 
 jobs:
     automerge:
@@ -37,4 +12,3 @@ jobs:
               env:
                   GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
                   MERGE_METHOD: "squash"
-              
