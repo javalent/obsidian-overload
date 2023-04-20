@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/javalent/obsidian-overload/compare/v1.3.0...v1.3.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* update actions/checkout ([576a75a](https://github.com/javalent/obsidian-overload/commit/576a75ac1b90f4f561ec8bffe3a9c97101b144c3))
+
 ## [1.3.0](https://github.com/javalent/obsidian-overload/compare/v1.2.15...v1.3.0) (2023-04-20)
 
 
