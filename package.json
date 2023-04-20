@@ -9,6 +9,7 @@
         "standard-version": "^9.3.2"
     },
     "dependencies": {
+        "fantasy-statblocks": "^3.5.0",
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
         "obsidian-dice-roller": "^8.14.1"
