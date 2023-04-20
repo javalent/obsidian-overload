@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.14](https://github.com/javalent/obsidian-overload/compare/v1.2.13...v1.2.14) (2023-04-20)
+
+
+### Bug Fixes
+
+* actions secret ([a94dcd3](https://github.com/javalent/obsidian-overload/commit/a94dcd37763563bdb7bdc9522c0a53bac6b3888e))
+* test ([d7c73ca](https://github.com/javalent/obsidian-overload/commit/d7c73ca2c668bf27f6fccc8d2fa4cda68ca1bc6c))
+* test ([ae7e77e](https://github.com/javalent/obsidian-overload/commit/ae7e77e3688b0ce3f4fff7859c3f381ad71cb1b4))
+* token param ([30ef07c](https://github.com/javalent/obsidian-overload/commit/30ef07c59274d2ef4492c12976baa379ea15aefe))
+
 ## [1.2.13](https://github.com/javalent/obsidian-overload/compare/v1.2.12...v1.2.13) (2023-04-20)
 
 
