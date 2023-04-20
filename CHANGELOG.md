@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.2.12](https://github.com/javalent/obsidian-overload/compare/v1.2.11...v1.2.12) (2023-04-20)
+
+
+### Bug Fixes
+
+* delay ([929a29c](https://github.com/javalent/obsidian-overload/commit/929a29ce7855c2657ebeb727337b0a9b2b7ba278))
+* echo ([8e6ae85](https://github.com/javalent/obsidian-overload/commit/8e6ae85f489883a5e60369297b8986700b441ec1))
+* idk again ([e22d13d](https://github.com/javalent/obsidian-overload/commit/e22d13d64f27892fcc879c8ab12a12797383ee33))
+* idk Update release-please.yml ([8eb4272](https://github.com/javalent/obsidian-overload/commit/8eb427222ff9edca8c0d4e9c04c6fc2e408127f1))
+* oops ([5d8f84e](https://github.com/javalent/obsidian-overload/commit/5d8f84e7498347c9cb0945fa7deec14171b55b30))
+* PAT change ([5edcb81](https://github.com/javalent/obsidian-overload/commit/5edcb81048e7a97217691202c26785734397e936))
+* PAT change auto merge ([53c067b](https://github.com/javalent/obsidian-overload/commit/53c067bbf04319df0e11de52fceebbcae5149cb3))
+* test ([e943ed6](https://github.com/javalent/obsidian-overload/commit/e943ed650d39cc3fc82e8e2a7bf27396b2067f4a))
+* test ([a244ba0](https://github.com/javalent/obsidian-overload/commit/a244ba02e22ca2d9a6c44524b83cdec10a1367bc))
+* test ([3a6c57b](https://github.com/javalent/obsidian-overload/commit/3a6c57b25f24cd13482eec61f271dc2616fec9d1))
+* test ([8a6f561](https://github.com/javalent/obsidian-overload/commit/8a6f56180638af3f2f2c28fc7bbc44b71e6aaacc))
+* test ([61054e1](https://github.com/javalent/obsidian-overload/commit/61054e16f6e284f657af7b54b122707cad104e1c))
+* test update retries Update release-please.yml ([8b647fa](https://github.com/javalent/obsidian-overload/commit/8b647fa8ce43226834948d00aa60ee25d3540897))
+* testing ([47545b4](https://github.com/javalent/obsidian-overload/commit/47545b413cabff725f346b92b8ee4aa88b098e1e))
+* testing ([2e50b10](https://github.com/javalent/obsidian-overload/commit/2e50b101e4caf05c848e4635c079800666877368))
+* Update auto-merge.yml ([7eb20de](https://github.com/javalent/obsidian-overload/commit/7eb20def49364893b9235bde03734f6dfff30d9a))
+* Update auto-merge.yml 2 ([098da06](https://github.com/javalent/obsidian-overload/commit/098da06f27dd10cd8fbf70df43fe22aceb33a3f9))
+* Update release-please.yml ([bd100e6](https://github.com/javalent/obsidian-overload/commit/bd100e639f180b4a923677df5043b482ec0f29f0))
+
 ## [1.2.11](https://github.com/javalent/obsidian-overload/compare/v1.2.10...v1.2.11) (2023-04-20)
 
 
