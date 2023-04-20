@@ -8,20 +8,22 @@ on:
             - unlabeled
             - opened
             - edited
+            - closed
             - reopened
             - synchronize
+            - converted_to_draft
             - ready_for_review
             - locked
-            - unlocked
+            - unlocked 
+            - review_requested 
+            - review_request_removed 
+            - auto_merge_enabled 
+            - auto_merge_disabled
 
 jobs:
     automerge:
         runs-on: ubuntu-latest
+        env:
+            GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
         steps:
-            - id: automerge
-              name: automerge
-              uses: "pascalgn/automerge-action@v0.15.6"
-              env:
-                  GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
-                  MERGE_METHOD: "squash"
-                  MERGE_LABELS: ""
+            - run: echo testing ${{ github.event.pull_request.merge_commit_sha }}
