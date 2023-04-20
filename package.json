@@ -6,7 +6,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "fantasy-statblocks": "^3.5.3",
+        "fantasy-statblocks": "^3.5.4",
         "standard-version": "^9.3.2"
     },
     "dependencies": {
