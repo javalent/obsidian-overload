@@ -1,5 +1,10 @@
 on:
     workflow_dispatch:
+        inputs:
+            module:
+                required: true
+                description: Module to upgrade
+                type: string
     workflow_call:
         inputs:
             module:
