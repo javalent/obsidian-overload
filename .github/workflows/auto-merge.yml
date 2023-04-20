@@ -1,6 +1,6 @@
 name: automerge
 on:
-    pull_request:
+    pull_request_target:
         types:
             - assigned
             - unassigned
@@ -13,7 +13,6 @@ on:
             - ready_for_review
             - locked
             - unlocked
-    pull_request_target:
 
 jobs:
     automerge:
