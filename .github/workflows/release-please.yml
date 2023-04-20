@@ -43,6 +43,7 @@ jobs:
                   GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
                   MERGE_METHOD: "squash"
                   MERGE_LABELS: ""
+                  UPDATE_RETRIES: 3
                   PULL_REQUEST: ${{ needs.release-please.outputs.pr.number }}
 #    publish:
 #        runs-on: ubuntu-latest
