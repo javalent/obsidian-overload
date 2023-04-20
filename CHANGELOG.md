@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.10](https://github.com/javalent/obsidian-overload/compare/v1.2.9...v1.2.10) (2023-04-20)
+
+
+### Bug Fixes
+
+* fix auto-merge maybe? ([2100c03](https://github.com/javalent/obsidian-overload/commit/2100c037db5dc4c9de1075d98677bb4497b7a57c))
+* removed plugin name from release-please action ([009b6d6](https://github.com/javalent/obsidian-overload/commit/009b6d60558b7141fbbd124c2be34de5b0b7e5d7))
+* testing automerge [#2](https://github.com/javalent/obsidian-overload/issues/2) ([bf4c287](https://github.com/javalent/obsidian-overload/commit/bf4c287cc6a723e2181317b59b8dbc807d26e09a))
+
 ## [1.2.9](https://github.com/javalent/obsidian-overload/compare/v1.2.8...v1.2.9) (2023-04-20)
 
 
