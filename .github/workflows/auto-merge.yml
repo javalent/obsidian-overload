@@ -2,9 +2,19 @@ name: automerge
 on:
     pull_request:
         types:
+            - assigned
+            - unassigned
             - labeled
+            - unlabeled
             - opened
             - edited
+            - reopened
+            - synchronize
+            - ready_for_review
+            - locked
+            - unlocked
+    pull_request_target:
+
 jobs:
     automerge:
         runs-on: ubuntu-latest
@@ -13,5 +23,6 @@ jobs:
               name: automerge
               uses: "pascalgn/automerge-action@v0.15.6"
               env:
-                  GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+                  GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
                   MERGE_METHOD: "squash"
+                  MERGE_LABELS: ""
