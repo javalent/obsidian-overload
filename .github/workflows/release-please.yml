@@ -14,14 +14,14 @@ name: release-please
 jobs:
     release-please:
         runs-on: ubuntu-latest
-        env:
-            GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
         outputs:
             release_created: ${{ steps.release.outputs.release_created }}
             upload_url: ${{ steps.release.outputs.upload_url }}
             tag_name: ${{ steps.release.outputs.tag_name }}
         steps:
             - uses: google-github-actions/release-please-action@v3
+              env:
+                  GITHUB_TOKEN: "${{ secrets.GH_ACTIONS_TOKEN }}"
               id: release
               with:
                   command: manifest
