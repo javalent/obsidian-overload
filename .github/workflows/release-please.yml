@@ -30,7 +30,7 @@ jobs:
               id: release
               with:
                   command: manifest
-                  token: ${{ secrets.GH_ACTION }}
+                  token: ${{ secrets.GH_ACTIONS }}
                   
     publish:
         needs: release-please
