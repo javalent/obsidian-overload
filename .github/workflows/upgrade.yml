@@ -36,3 +36,5 @@ jobs:
               with:
                   default_author: github_actions
                   message: "feat: Upgrading ${{ inputs.module }} to latest"
+              env:
+                GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
