@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/javalent/obsidian-overload/compare/v1.8.0...v1.8.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* fixes statblock exporting ([173e7d2](https://github.com/javalent/obsidian-overload/commit/173e7d2ddd06e7b8aaf8e21ca58335ed820b64ec))
+
 ## [1.8.0](https://github.com/javalent/obsidian-overload/compare/v1.7.0...v1.8.0) (2023-04-20)
 
 
