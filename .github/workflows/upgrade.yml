@@ -18,14 +18,15 @@ jobs:
         runs-on: ubuntu-latest
         outputs:
             committed: ${{ steps.commit.outputs.committed }}
-        
+
         env:
-          GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
+            GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
         steps:
             # The logic below handles the npm publication:
             - uses: actions/checkout@v3
               with:
-                token: ${{ secrets.GH_ACTIONS }}
+                  token: ${{ secrets.GH_ACTIONS }}
+                  repository: "javalent/obsidian-overload"
             - uses: actions/setup-node@v3
               with:
                   node-version: 18
@@ -37,4 +38,4 @@ jobs:
                   default_author: github_actions
                   message: "feat: Upgrading ${{ inputs.module }} to latest"
               env:
-                GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
+                  GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
