@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.0](https://github.com/javalent/obsidian-overload/compare/v1.6.0...v1.7.0) (2023-04-20)
+
+
+### Features
+
+* Upgrading fantasy-statblocks to latest ([cbe19e5](https://github.com/javalent/obsidian-overload/commit/cbe19e5906df726b77759f2ed86bc7046d0b4c0f))
+* Upgrading obsidian-dice-roller to latest ([5eee8ae](https://github.com/javalent/obsidian-overload/commit/5eee8ae92df3de5bbed86560d8d4bfc7a139cd30))
+
 ## [1.6.0](https://github.com/javalent/obsidian-overload/compare/v1.5.0...v1.6.0) (2023-04-20)
 
 
