@@ -32,6 +32,7 @@ jobs:
         uses: javalent/workflows/.github/workflows/publish.yml@main
         secrets: inherit
     automerge:
+        needs: release-please
         runs-on: ubuntu-latest
         if: ${{ !needs.release-please.outputs.release_created }}
         steps:
