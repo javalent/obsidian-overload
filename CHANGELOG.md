@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.9](https://github.com/javalent/obsidian-overload/compare/v1.2.8...v1.2.9) (2023-04-20)
+
+
+### Bug Fixes
+
+* fix release-please target ([9858db0](https://github.com/javalent/obsidian-overload/commit/9858db0b0c04155399707d58fd68ef38b53f4683))
+* test auto-approve ([4d626bd](https://github.com/javalent/obsidian-overload/commit/4d626bd6b6d2c506dd08d3468b68f6917b30ee8f))
+* update auto-merge ([2e7056c](https://github.com/javalent/obsidian-overload/commit/2e7056c461c5e58105fa174ea48c729c10cdb949))
+
 ## [1.2.8](https://github.com/javalent/obsidian-overload/compare/v1.2.7...v1.2.8) (2023-04-19)
 
 
