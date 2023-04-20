@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.1](https://github.com/javalent/obsidian-overload/compare/v1.10.0...v1.10.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* adds statblocks as a dependency ([85c25e0](https://github.com/javalent/obsidian-overload/commit/85c25e0c55a383991cdf5948b6b134041a9f9f27))
+
 ## [1.10.0](https://github.com/javalent/obsidian-overload/compare/v1.9.1...v1.10.0) (2023-04-20)
 
 
