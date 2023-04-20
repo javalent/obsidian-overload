@@ -23,7 +23,7 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GH_ACTIONS }}"
         steps:
             # The logic below handles the npm publication:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v3
               with:
                 token: ${{ secrets.GH_ACTIONS }}
             - uses: actions/setup-node@v3
