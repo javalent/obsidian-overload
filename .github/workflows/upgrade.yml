@@ -25,8 +25,4 @@ jobs:
               id: commit
               with:
                   default_author: github_actions
-
-    publish:
-        needs: upgrade
-        if: ${{ needs.upgrade.outputs.committed }}
-        uses: javalent/workflows/.github/workflows/publish.yml@main
+                  message: "feat: Upgrading ${{ inputs.module }} to latest"
