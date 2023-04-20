@@ -26,7 +26,14 @@ jobs:
               id: release
               with:
                   command: manifest
-            - run: echo ${{ steps.release.outputs.pr }}
+            - id: automerge
+              if: ${{ !steps.release.outputs.release_created }}
+              run: |
+                echo "Attempting to auto merge PR ${{ steps.release.outputs.pr.number }}"
+                git checkout ${{ steps.release.outputs.pr.headBranchName }}
+                git merge --squash ${{ steps.release.outputs.pr.sha }}
+                git commit
+                
     publish:
         needs: release-please
         if: ${{ needs.release-please.outputs.release_created }}
