@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/javalent/obsidian-overload/compare/v1.10.1...v1.11.0) (2023-04-20)
+
+
+### Features
+
+* exposes leaflet ([fc84d11](https://github.com/javalent/obsidian-overload/commit/fc84d116f7dccfb13647b701e9ef14feef78594c))
+
 ## [1.10.1](https://github.com/javalent/obsidian-overload/compare/v1.10.0...v1.10.1) (2023-04-20)
 
 
