@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.11](https://github.com/javalent/obsidian-overload/compare/v1.2.10...v1.2.11) (2023-04-20)
+
+
+### Bug Fixes
+
+* switch to PAT ([6bb6213](https://github.com/javalent/obsidian-overload/commit/6bb6213e73a7c2159d7109f3241f7ec0f49db81d))
+* test ([b769359](https://github.com/javalent/obsidian-overload/commit/b7693597368c3bd77867f67f90bdee26c1bb629e))
+
 ## [1.2.10](https://github.com/javalent/obsidian-overload/compare/v1.2.9...v1.2.10) (2023-04-20)
 
 
