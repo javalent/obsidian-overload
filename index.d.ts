@@ -5,3 +5,5 @@ export interface Plugins {
     "obsidian-dice-roller": DiceRoller;
     dataview: { api: DataviewAPI; index: FullIndex };
 }
+
+export * from "obsidian-dice-roller";
