@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.1](https://github.com/javalent/obsidian-overload/compare/v1.15.0...v1.15.1) (2023-04-22)
+
+
+### Bug Fixes
+
+* expose initiative tracker ([cb97cb9](https://github.com/javalent/obsidian-overload/commit/cb97cb9a027765fda36a6cd20f3c4f1b66cb5450))
+
 ## [1.15.0](https://github.com/javalent/obsidian-overload/compare/v1.14.0...v1.15.0) (2023-04-22)
 
 
