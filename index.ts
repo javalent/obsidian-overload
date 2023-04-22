@@ -13,3 +13,4 @@ export interface Plugins {
 export * from "obsidian-dice-roller";
 export * from "fantasy-statblocks";
 export * from "obsidian-leaflet";
+export * from "initiative-tracker";
