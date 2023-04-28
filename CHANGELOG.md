@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.30.0](https://github.com/javalent/obsidian-overload/compare/v1.29.0...v1.30.0) (2023-04-28)
+
+
+### Features
+
+* Upgrading fantasy-statblocks to latest ([808c686](https://github.com/javalent/obsidian-overload/commit/808c686307967b175509313673c80a9e3a2280dc))
+
 ## [1.29.0](https://github.com/javalent/obsidian-overload/compare/v1.28.0...v1.29.0) (2023-04-28)
 
 
