@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.36.0](https://github.com/javalent/obsidian-overload/compare/v1.35.0...v1.36.0) (2023-05-02)
+
+
+### Features
+
+* Upgrading initiative-tracker to latest ([51934e1](https://github.com/javalent/obsidian-overload/commit/51934e189328f8d43811f03ac39896aa0c81f4fe))
+
 ## [1.35.0](https://github.com/javalent/obsidian-overload/compare/v1.34.0...v1.35.0) (2023-05-02)
 
 
