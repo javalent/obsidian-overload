@@ -10,7 +10,7 @@
         "initiative-tracker": "^11.1.7",
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
-        "obsidian-dice-roller": "^8.15.0",
+        "obsidian-dice-roller": "^8.15.1",
         "obsidian-leaflet": "^5.6.1"
     },
     "description": "",
