@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.66.0](https://github.com/javalent/obsidian-overload/compare/v1.65.0...v1.66.0) (2023-07-15)
+
+
+### Features
+
+* Upgrading obsidian-dice-roller to latest ([2775809](https://github.com/javalent/obsidian-overload/commit/27758097a470f343353d10502a3028232d1ea08e))
+
 ## [1.65.0](https://github.com/javalent/obsidian-overload/compare/v1.64.0...v1.65.0) (2023-07-04)
 
 
