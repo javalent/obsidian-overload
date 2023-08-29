@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.84.0](https://github.com/javalent/obsidian-overload/compare/v1.83.0...v1.84.0) (2023-08-29)
+
+
+### Features
+
+* Upgrading obsidian-leaflet to latest ([508ff26](https://github.com/javalent/obsidian-overload/commit/508ff26f75d16b4a40c8fe8d5728158e4f26ea89))
+
 ## [1.83.0](https://github.com/javalent/obsidian-overload/compare/v1.82.0...v1.83.0) (2023-08-25)
 
 
