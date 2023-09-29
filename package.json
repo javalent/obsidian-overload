@@ -7,7 +7,7 @@
     "license": "ISC",
     "dependencies": {
         "fantasy-statblocks": "^3.13.2",
-        "initiative-tracker": "^12.2.5",
+        "initiative-tracker": "^12.2.6",
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
         "obsidian-dice-roller": "^9.4.1",
