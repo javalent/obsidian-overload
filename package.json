@@ -6,7 +6,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "fantasy-statblocks": "^3.13.3",
+        "fantasy-statblocks": "^3.13.4",
         "initiative-tracker": "^12.2.6",
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
