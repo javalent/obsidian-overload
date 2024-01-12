@@ -6,6 +6,7 @@
 ### Features
 
 * Upgrading fantasy-statblocks to latest ([0ee63a4](https://github.com/javalent/obsidian-overload/commit/0ee63a4ff79cf5bcbdf90ab9dad6825b046bbd81))
+* Upgrading initiative-tracker to latest ([f39c617](https://github.com/javalent/obsidian-overload/commit/f39c6179594d477fa946a7d7894a12a1d9ddc6b2))
 
 ## [1.143.0](https://github.com/javalent/obsidian-overload/compare/v1.142.0...v1.143.0) (2024-01-11)
 
