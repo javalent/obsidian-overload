@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.156.1](https://github.com/javalent/obsidian-overload/compare/v1.156.0...v1.156.1) (2024-03-01)
+
+
+### Bug Fixes
+
+* Remove FS ([23b9554](https://github.com/javalent/obsidian-overload/commit/23b95541877edd69dafdcc09942ea279189db892))
+
 ## [1.156.0](https://github.com/javalent/obsidian-overload/compare/v1.155.0...v1.156.0) (2024-02-22)
 
 
