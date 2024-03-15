@@ -6,7 +6,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "initiative-tracker": "^13.0.1",
+        "initiative-tracker": "^13.0.2",
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
         "obsidian-dice-roller": "^10.4.5",
