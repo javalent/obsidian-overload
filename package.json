@@ -10,7 +10,7 @@
         "obsidian": "^1.1.1",
         "obsidian-dataview": "^0.4.21",
         "obsidian-dice-roller": "^10.4.6",
-        "obsidian-leaflet": "^6.0.3"
+        "obsidian-leaflet": "^6.0.4"
     },
     "description": "",
     "devDependencies": {
